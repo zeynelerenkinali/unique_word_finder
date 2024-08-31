@@ -12,3 +12,4 @@ Algorithm
 3. Tokenize the contents into words.
 4. Count the occurrences of each word.
 5. Display the word count for each unique word in the file.
+
