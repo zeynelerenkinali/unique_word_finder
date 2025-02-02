@@ -55,15 +55,25 @@ This Java program processes an ancient manuscript text file, cleans the words fr
 ### Input File (`Ancient_Manuscript.txt`): The quick brown fox jumps over the lazy dog. The dog was not amused.
 ### Output File (`words.txt`):
 the: 3
+
 quick: 1
+
 brown: 1
+
 fox: 1
+
 jumps: 1
+
 over: 1
+
 lazy: 1
+
 dog: 2
+
 was: 1
+
 not: 1
+
 amused: 1
 
 ## Dependencies
